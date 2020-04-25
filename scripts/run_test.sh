@@ -46,7 +46,7 @@ function main(){
         run_api 
         ;;
       *)
-        echo "Sorry, $CMD not recognized."
+        echo "Sorry, $CMD not recognized..."
         exit 1
         ;;
       esac
